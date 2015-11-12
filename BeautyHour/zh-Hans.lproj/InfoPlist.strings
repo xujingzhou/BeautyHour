@@ -1,0 +1,4 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleDisplayName = "美图";
+CFBundleName = "美图";

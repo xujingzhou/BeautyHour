@@ -1,0 +1,30 @@
+//
+//  Prefix header
+//  BeautyHour
+//
+//  Created by Johnny Xu(徐景周) on 7/23/14.
+//  Copyright (c) 2014 Future Studio. All rights reserved.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <AssetsLibrary/AssetsLibrary.h>
+#import "UIColor+Help.h"
+#import "LoadingViewManager.h"
+
+//#import "WeiboSDK.h"
+#import "WXApi.h"
+
+#import "Constants.h"
+
+#endif
+
+

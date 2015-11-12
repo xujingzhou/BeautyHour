@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIcons</key>
+	<dict/>
+	<key>CFBundleIcons~ipad</key>
+	<dict/>
+	<key>CFBundleIdentifier</key>
+	<string>com.johnnyxu.$(PRODUCT_NAME:rfc1034identifier)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.1</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>weixin</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>wx7959265fd6dfa306</string>
+				<string>fb301850866674289</string>
+				<string>wb519869435</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>2.1</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>yolan-yolan.ttf</string>
+		<string>FrLt DFGirl.ttf</string>
+		<string>Cartoon Bones.ttf</string>
+		<string>SketchyComic.ttf</string>
+		<string>InkSpecial.ttf</string>
+		<string>MUSCLE_CRE.ttf</string>
+		<string>Team Captain.ttf</string>
+		<string>Poker style.ttf</string>
+		<string>迷你简启体.ttf</string>
+		<string>BlackJack.ttf</string>
+		<string>Capture it.ttf</string>
+		<string>Pacifico.ttf</string>
+		<string>SeasideResortNF.ttf</string>
+	</array>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIStatusBarHidden</key>
+	<false/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

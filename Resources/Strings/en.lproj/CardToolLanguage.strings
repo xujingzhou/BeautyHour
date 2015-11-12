@@ -1,0 +1,248 @@
+
+"Create_Card_Title" = "Make Cards";
+
+"TakePic" = "Take Photo";
+"PickPic" = "Album";
+"Button_Cancel" = "Cancel";
+"Button_Cofirm" = "Confirm";
+"Button_Back" = "Back";
+"Cofirm_Back" = "Confirm Back";
+
+"input_message_tips" = " 1. Long press on the photo to enter text; 2. Tap on the text to edit the text content; 3. Double tap on the text to change the text style; ";
+"Face" = "Face";
+
+"FaceDetector" = "Face Detector";
+"FaceChanging" = "Face Changing";
+"FaceNoExisted" = "Face hasn't existed";
+
+"BackgroundBlur" = "Blur Background";
+"Original" = "Original";
+"BlurCircular" = "Blur1";
+"BlurBand" = "Blur2";
+"SpotLight" = "Spot";
+"effect_tips" = "Image Effect: 1. 'Spot' is spot light; 2. 'Blur1' is blur background by circular; 3. 'Blur2' is blur background by band; 4. Support tap, pan, pinch and rotate operation. ";
+
+"nav_title_preview" = "Preview";
+"nav_title_specialefficacy" = "Effects";
+
+"NoExistedPhoto" = "Photo or Video is empty";
+"SyncPhoto" = "Please synchronizing into your iPhone by iTunes.";
+"NoSupport" = "The photo or video has been supported.";
+"SettingHint" = "You may enable by 'Privacy' of Setting";
+
+"Unknown" = "Unknown";
+"Facebook" = "Facebook";
+"WechatSession" = "Wechat friend";
+"WechatTimeline" = "Wechat Timeline";
+"SinaWeibo" = "Sina Weibo";
+"Twitter" = "Twitter";
+
+"PhotoEffects" = "Photo Effects";
+
+"CustomBeauty" = "CustomBeauty";
+"PhotoBeautify" = "PhotoBeautify";
+"VideoBeautify" = "VideoBeautify";
+
+"Custom" = "Custom";
+"AllFonts" = "All Fonts";
+"FontStyleSample" = "Font Style Sample";
+
+"FontName" = "Noteworthy-Bold";
+"FontNameEnglish" = "Noteworthy-Bold";
+
+"FontNameJingLei" = "FZJingLei";
+"FontNameGirl" = "Girl";
+"FontNameMini" = "Mini";
+"FontNameSketchyComic" = "Sketchy Comic";
+"FontNameInkSpecial" = "Ink Special";
+"FontNamePokerStyle" = "Poker Style";
+"FontNameMuscle" = "Muscle CRE";
+"FontNameCartoon" = "Cartoon Bones";
+"FontNameTeamCaptain" = "Team Captain";
+"FontNameBlackJack" = "Black Jack";
+"FontNameCaptureIt" = "Capture it";
+"FontNamePacifico" = "Pacifico";
+"FontNameWindsong" = "Windsong";
+"FontNameSeasideResortNF" = "Seaside Resort";
+"FontNameNoteworthy" = "Noteworthy-Bold";
+"FontNameAcademyEngraveLet" = "AcademyEngravedLetPlain";
+
+"Done" = "Done";
+"Pattern" = "Effect";
+"Color" = "Color";
+"Font" = "Font";
+"ChangeStyle" = "Change Style";
+"ChangeFont" = "Change Font";
+"ChangeColor" = "Change Color";
+"ChangePattern" = "Change Effect";
+"ChangeDescription" = "Tap here to change the font attributes";
+
+"FontStyleDefault" = "Default";
+"FontStyleShadow" = "Shadow";
+"FontStyleEmboss" = "Emboss";
+"FontStyleGradientFill" = "Gradient";
+"FontStyleRainbow" = "Rainbow";
+"FontStyleSynthesis" = "Cloud Drift";
+
+"Export" = "Export";
+"UsageHint" = "Click to start";
+"AppName" = "BeautyHour";
+"AppCreated" = "Created by BeautyHour";
+"AppLink1" = "http://itunes.com/apps/jingzhouxu";
+"AppLink" = "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=942231950&mt=8";
+"AppDescription" = "'BeautyHour' is an innovative full graphic Software. Invite you to join!";
+"AppContent" = "Share";
+"AppDefaultContent" = "BeautyHour invite you to join!";
+
+
+"ShareOthers" = "Share on Others";
+"ShareFacebook" = "Share on Facebook";
+"ShareTwitter" = "Share on Twitter";
+"ShareSinaWeibo" = "Share on SinaWeibo";
+"ShareWechat" = "Share on Wechat";
+"WeixiInstallError" = "Sorry, Wechat hasn't been installed on this device. Please install it first.";
+"TwitterInvalidTitle" = "No Twitter Accounts";
+"TWitterInvalidContent" = "There are no Twitter accounts configured. You can add or create a Twitter account in system 'Settings'.";
+"FacebookInvalidTitle" = "No Facebook Accounts";
+"FacebookInvalidContent" = "There are no Facebook accounts configured. You can add or create a Facebook account in system 'Settings'.";
+
+"Setting" = "Setting";
+"OK" = "OK";
+"Filter" = "Filter";
+"Save" = "Save";
+"DoAgain" = "Do It Again";
+"Submit" = "Submit";
+"Success" = "Success";
+"SaveSuccess" = "The photo has been Saved!";
+"Failed" = "Failed";
+"Choose" = "Added ";
+"PhotoCount" = " Photos";
+"PhotoHint" = "Added %ld Photos";
+"VideoHint" = "Added %ld Videos";
+"PhotoVideoHint" = "Added %ld Items";
+"PhotoHintHalf" = "%ld Photos";
+"VideoHintHalf" = "%ld videos";
+"PhotoVideoHintHalf" = "%ld Photos, %ld Videos";
+
+//Mood
+"card_title_mood" = "Mood";
+"card_button_bored" = "无聊";
+"card_button_leisure" = "悠闲";
+"card_button_happy" = "逗比";
+"card_button_showoff" = "得瑟";
+"card_button_anger" = "暴走";
+"card_button_sad" = "伤心";
+"card_button_lol" = "囧囧";
+"card_button_more" = "更多";
+
+//Essay
+"card_title_essay" = "随笔";
+"card_essay_button_fugu" = "复古";
+"card_essay_button_guangyun" = "光晕";
+"card_essay_button_baiban" = "白板";
+"card_essay_button_katong" = "卡通";
+"card_essay_button_house" = "房子";
+"card_essay_button_huiyi" = "回忆";
+
+
+"card_essay_decoration" = "Sticker";
+"card_essay_decoration_potho_title" = "Sticker Photo";
+
+"card_essay_decoration_left"="装饰";
+"card_essay_decoration_right"="小照片";
+
+
+//meitu
+"card_meitu_title" = "Beauty Hour";
+"card_meitu_start_pintu" = "Splice";
+"card_meitu_album" = "Album";
+"card_meitu_complete" = "Finish";
+"card_meitu_cancel" = "Cancel";
+"card_meitu_imagegroup_imagecount" = "%ld photos";
+"card_meitu_ready_add_image_count" = "Added %d Photos";
+"card_meitu_max_image_prompt" = "Warm Tip";
+"card_meitu_max_image_prompttext" = "BeautyHour need less than 6 photos.";
+"card_meitu_max_image_count_less_than_two" = "BeautyHour need more than 1 photo.";
+
+
+"card_meitu_storyboard" = "Puzzle";
+"card_meitu_poster" = "Freedoom";
+"card_meitu_splice" = "Splice";
+"card_meitu_board"  = "Border";
+"card_meitu_edit"  = "Add/Delete";
+"card_meitu_board_list_title" = "Border List";
+
+
+"card_select_image_pingtu" =  "Puzzle";
+"card_select_image_once" =  "Single";
+"card_take_pic" =  "Take Photo";
+"card_pick_pic" =  "Choose Photo";
+
+
+
+"card_meitu_max_image_promptDetermine" = "OK";
+"card_meitu_add_image" = "Add Photo";
+
+//Diary
+"card_title_diary" = "日记";
+"card_diary_button_xinjian" = "信笺";
+"card_diary_button_qingxin" = "清新";
+"card_diary_button_langman" = "烂漫";
+"card_diary_button_sinian" = "思念";
+"card_diary_button_piaoxue" = "飘雪";
+
+
+"card_diary_select_weather_title" = "天气列表";
+
+
+
+//小卡片
+"card_title_smallcard" = "小卡片";
+
+"card_small_button_photo" = "图片";
+"card_small_button_tif" = "文字";
+"card_small_button_baseboard" = "底纹";
+"card_small_button_ornament" = "装饰";
+"card_small_button_doll" = "玩偶";
+"card_baseboard_list_title" = "底板列表";
+"card_decoration_list_title" = "装饰列表";
+"card_music_select_complete" = "完成";
+
+//Create Tuo Card
+
+"Weather" = "天气 🍀";
+"Video_CutPic_Failed" = "视频截图失败！";
+"Video_Processing" = "Processing";
+"AVAsset doesn't support mp4 quality" = "不支持MP4的格式";
+"Error" = "Error";
+
+"Cofirm Back" = "Confirm Back";
+
+"Send Vote" = "发起投票";
+"Send Vote Warinning" = "你发起的投票无效，请填写完信息!";
+"Cancel Send Vote" = "放弃发起投票";
+"Continue Send Vote" = "继续填写";
+
+"Title_Vote_Description" = "你发起的投票描述:";
+"Title_Vote_PlanceHold" = "写下你要表达的问题...";
+
+"select_music" = "Music";
+"select_record" = "Record";
+"Press_Button_Recording" = "Hold On";
+
+
+
+//资源列表的title
+"ResourceList_Title_Mood"= "心情列表";
+"ResourceList_Title_Eassy"= "装饰";
+"ResourceList_Title_Decoration"= "装饰列表";
+"ResourceList_Title_Doll"= "玩偶列表";
+"ResourceList_Title_Baseboard"= "底板列表";
+"ResourceList_Title_Specialefficacy"= "特效列表";
+
+//发布
+"postTO_CardShowAndFriend" = "发布到卡秀及朋友圈";
+"postTO_Friend_Only" = "仅发布到朋友圈";
+"postTO_CardShow_Only" = "仅发布到卡秀";
+
+"Prompt_After_Null"= "后面没有了";

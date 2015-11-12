@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SuperViewInfo</key>
+	<dict>
+		<key>size</key>
+		<string>{720, 960}</string>
+	</dict>
+	<key>SubViewArray</key>
+	<array>
+		<dict>
+			<key>pointArray</key>
+			<array>
+				<string>{20,20}</string>
+				<string>{362,20}</string>
+				<string>{336,312}</string>
+				<string>{20,348}</string>
+			</array>
+        </dict>
+        <dict>
+			<key>pointArray</key>
+			<array>
+				<string>{374,20}</string>
+				<string>{700,20}</string>
+				<string>{700,511}</string>
+				<string>{452,477}</string>
+				<string>{347,318}</string>
+			</array>
+        </dict>
+        <dict>
+			<key>pointArray</key>
+			<array>
+				<string>{448,489}</string>
+				<string>{700,523}</string>
+				<string>{700,940}</string>
+				<string>{374,940}</string>
+				<string>{309,667}</string>
+			</array>
+        </dict>
+        <dict>
+			<key>pointArray</key>
+			<array>
+				<string>{20,593}</string>
+				<string>{298,674}</string>
+				<string>{362,940}</string>
+				<string>{20,940}</string>
+			</array>
+        </dict>
+        <dict>
+			<key>pointArray</key>
+			<array>
+				<string>{20,360}</string>
+				<string>{336,324}</string>
+				<string>{439,480}</string>
+				<string>{298,661}</string>
+				<string>{20,581}</string>
+			</array>
+        </dict>
+	</array>
+</dict>
+</plist>

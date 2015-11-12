@@ -1,0 +1,247 @@
+
+"Create_Card_Title" = "制作拓卡";
+
+"TakePic" = "拍照";
+"PickPic" = "相册";
+"Button_Cancel" = "取消";
+"Button_Cofirm" = "确认";
+"Button_Back" = "返回";
+"Cofirm_Back" = "确认返回";
+
+"input_message_tips" = " 1. 长按照片可输入文字; 2. 单击文字可编辑文本内容; 3. 双击文字可改变文本风格; ";
+"Face" = "变脸";
+
+"FaceDetector" = "人脸识别";
+"FaceChanging" = "点击换脸";
+"FaceNoExisted" = "未检测出人脸";
+
+"BackgroundBlur" = "背景模糊";
+"Original" = "源图";
+"BlurCircular" = "模糊1";
+"BlurBand" = "模糊2";
+"SpotLight" = "聚光灯";
+"effect_tips" = "图形特效: 1. 聚光灯; 2. 圆形背景模糊; 3. 线形背景模糊; 4. 支持点击、移动、放大/缩小、旋转等操作. ";
+
+"nav_title_preview" = "预览";
+"nav_title_specialefficacy" = "特效";
+
+"NoExistedPhoto" = "没有照片或视频";
+"SyncPhoto" = "您可以使用 iTunes 将照片和视频\n同步到 iPhone";
+"NoSupport" = "此应用无法使用您的照片或视频";
+"SettingHint" = "您可以在「隐私设置」中启用存取";
+
+"Unknown" = "未知";
+"Facebook" = "Facebook";
+"WechatSession" = "微信好友";
+"WechatTimeline" = "微信朋友圈";
+"SinaWeibo" = "新浪微博";
+"Twitter" = "Twitter";
+
+"PhotoEffects" = "照片特效";
+
+"CustomBeauty" = "私人定制";
+"PhotoBeautify" = "美图(MV)";
+"VideoBeautify" = "美视(MV)";
+
+"Custom" = "定制";
+"AllFonts" = "全部字体";
+"FontStyleSample" = "Font Sample - (字体样式)";
+
+"FontName" = "FrLt DFGirl";
+"FontNameEnglish" = "Noteworthy-Bold";
+
+"FontNameJingLei" = "徐静蕾字体";
+"FontNameGirl" = "少女幼圆字体";
+"FontNameMini" = "迷你简启体";
+"FontNameSketchyComic" = "素描字体(英)";
+"FontNameInkSpecial" = "水墨字体(英)";
+"FontNamePokerStyle" = "扑克字体(英)";
+"FontNameMuscle" = "肌肉型字体(英)";
+"FontNameCartoon" = "卡通字体(英)";
+"FontNameTeamCaptain" = "Team Captain(英)";
+"FontNameBlackJack" = "Black Jack(英)";
+"FontNameCaptureIt" = "Capture it(英)";
+"FontNamePacifico" = "Pacifico(英)";
+"FontNameWindsong" = "Windsong(英)";
+"FontNameSeasideResortNF" = "Seaside Resort(英)";
+"FontNameNoteworthy" = "Noteworthy-Bold(英)";
+"FontNameAcademyEngraveLet" = "AcademyEngravedLetPlain(英)";
+
+"Done" = "完成";
+"Pattern" = "特效";
+"Color" = "颜色";
+"Font" = "字体";
+"ChangeFont" = "改变字体";
+"ChangeStyle" = "改变风格";
+"ChangeColor" = "改变颜色";
+"ChangePattern" = "改变特效";
+"ChangeDescription" = "通过这儿可以改变字体属性";
+
+"FontStyleDefault" = "默认";
+"FontStyleShadow" = "阴影";
+"FontStyleEmboss" = "浮雕";
+"FontStyleGradientFill" = "渐变";
+"FontStyleRainbow" = "彩虹";
+"FontStyleSynthesis" = "浮云";
+
+"Export" = "导出";
+"UsageHint" = "点击开始";
+"AppName" = "美图";
+"AppCreated" = "‘BeautyHour’创建";
+"AppLink1" = "http://itunes.com/apps/jingzhouxu";
+"AppLink" = "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=942231950&mt=8";
+"AppDescription" = "'BeautyHour'是一款新意十足的图形软件，邀请你参与!";
+"AppContent" = "分享";
+"AppDefaultContent" = "BeautyHour邀请你参与!";
+
+"ShareOthers" = "分享到其它";
+"ShareFacebook" = "分享到Facebook";
+"ShareTwitter" = "分享到Twitter";
+"ShareSinaWeibo" = "分享到新浪微博";
+"ShareWechat" = "分享到微信朋友圈";
+"WeixiInstallError" = "抱歉，这台设备还未安装微信，请在分享前先安装它！";
+"TwitterInvalidTitle" = "Twitter帐户不存在";
+"TWitterInvalidContent" = "这儿没有配置Twitter帐户, 你可以在系统'设置'中添加它.";
+"FacebookInvalidTitle" = "Facebook帐户不存在";
+"FacebookInvalidContent" = "这儿没有配置Facebook帐户, 你可以在系统'设置'中添加它.";
+
+"Setting" = "设置";
+"OK" = "确定";
+"Filter" = "滤镜";
+"Save" = "保存";
+"DoAgain" = "在做一张";
+"Submit" = "提交";
+"Success" = "成功";
+"SaveSuccess" = "照片已保存到相册!";
+"Failed" = "失败";
+"Choose" = "选择了";
+"PhotoCount" = "张照片";
+"PhotoHint" = "已选择 %ld 张照片";
+"VideoHint" = "已选择 %ld 部视频";
+"PhotoVideoHint" = "已选择 %ld 个项目";
+"PhotoHintHalf" = "%ld 张照片";
+"VideoHintHalf" = "%ld 部视频";
+"PhotoVideoHintHalf" = "%ld 张照片, %ld 部视频";
+
+//Mood
+"card_title_mood" = "心情";
+"card_button_bored" = "无聊";
+"card_button_leisure" = "悠闲";
+"card_button_happy" = "逗比";
+"card_button_showoff" = "得瑟";
+"card_button_anger" = "暴走";
+"card_button_sad" = "伤心";
+"card_button_lol" = "囧囧";
+"card_button_more" = "更多";
+
+
+
+//Essay
+"card_title_essay" = "随笔";
+"card_essay_button_fugu" = "复古";
+"card_essay_button_guangyun" = "光晕";
+"card_essay_button_baiban" = "白板";
+"card_essay_button_katong" = "卡通";
+"card_essay_button_house" = "房子";
+"card_essay_button_huiyi" = "回忆";
+
+
+"card_essay_decoration" = "装饰";
+"card_essay_decoration_potho_title" = "装饰图片";
+
+"card_essay_decoration_left"="装饰";
+"card_essay_decoration_right"="小照片";
+
+
+//meitu
+"card_meitu_title" = "美图";
+"card_meitu_start_pintu" = "拼图";
+"card_meitu_album" = "相册";
+"card_meitu_complete" = "完成";
+"card_meitu_cancel" = "取消";
+"card_meitu_imagegroup_imagecount" = "%ld 张照片";
+"card_meitu_ready_add_image_count" = "已经添加了%d张照片";
+"card_meitu_max_image_prompt" = "温馨提示";
+"card_meitu_max_image_prompttext" = "最多只能选择5张图片哦～";
+"card_meitu_max_image_count_less_than_two" = "至少需要1张图片哦～";
+
+"card_meitu_storyboard" = "拼图";
+"card_meitu_poster" = "自由";
+"card_meitu_splice" = "拼接";
+"card_meitu_board"  = "边框";
+"card_meitu_edit"  = "添加/删除";
+"card_meitu_board_list_title" = "边框列表";
+
+
+"card_select_image_pingtu" =  "拼图";
+"card_select_image_once" =  "单图";
+"card_take_pic" =  "拍照";
+"card_pick_pic" =  "选择照片";
+
+
+"card_meitu_max_image_promptDetermine" = "确定";
+"card_meitu_add_image" = "添加图片";
+
+//Diary
+"card_title_diary" = "日记";
+"card_diary_button_xinjian" = "信笺";
+"card_diary_button_qingxin" = "清新";
+"card_diary_button_langman" = "烂漫";
+"card_diary_button_sinian" = "思念";
+"card_diary_button_piaoxue" = "飘雪";
+
+
+"card_diary_select_weather_title" = "天气列表";
+
+
+
+//小卡片
+"card_title_smallcard" = "小卡片";
+
+"card_small_button_photo" = "图片";
+"card_small_button_tif" = "文字";
+"card_small_button_baseboard" = "底纹";
+"card_small_button_ornament" = "装饰";
+"card_small_button_doll" = "玩偶";
+"card_baseboard_list_title" = "底板列表";
+"card_decoration_list_title" = "装饰列表";
+"card_music_select_complete" = "完成";
+
+//Create Tuo Card
+
+"Weather" = "天气 🍀";
+"Video_CutPic_Failed" = "视频截图失败！";
+"Video_Processing" = "正在处理...";
+"AVAsset doesn't support mp4 quality" = "不支持MP4的格式";
+"Error" = "错误";
+
+"Cofirm Back" = "确认返回";
+
+"Send Vote" = "发起投票";
+"Send Vote Warinning" = "你发起的投票无效，请填写完信息!";
+"Cancel Send Vote" = "放弃发起投票";
+"Continue Send Vote" = "继续填写";
+
+"Title_Vote_Description" = "你发起的投票描述:";
+"Title_Vote_PlanceHold" = "写下你要表达的问题...";
+
+"select_music" = "音乐";
+"select_record" = "录音";
+"Press_Button_Recording" = "按住开始录音";
+
+
+
+//资源列表的title
+"ResourceList_Title_Mood"= "心情列表";
+"ResourceList_Title_Eassy"= "装饰";
+"ResourceList_Title_Decoration"= "装饰列表";
+"ResourceList_Title_Doll"= "玩偶列表";
+"ResourceList_Title_Baseboard"= "底板列表";
+"ResourceList_Title_Specialefficacy"= "特效列表";
+
+//发布
+"postTO_CardShowAndFriend" = "发布到卡秀及朋友圈";
+"postTO_Friend_Only" = "仅发布到朋友圈";
+"postTO_CardShow_Only" = "仅发布到卡秀";
+
+"Prompt_After_Null"= "后面没有了";
