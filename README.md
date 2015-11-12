@@ -11,5 +11,5 @@ With this software, you can do all kinds of Personalised Customize and  beautify
 8.  International language support.
 9.  Share support.
 
-Johnny Xu(徐景周)
+Johnny Xu(徐景周)  
 Future Studio
