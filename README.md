@@ -1,5 +1,4 @@
 # BeautyHour
-完整应用，功能与“美图秀秀”雷同。Tested on iPhone 4 and iPhone 5S.
   
 The function as below:  
 1.	Custom splice.  
@@ -11,6 +10,9 @@ The function as below:
 7.  Support photo save to album, convenient for review.  
 8.  International language support.  
 9.  Share support.  
+Tested on iPhone 4 and iPhone 5S.
+
+完整应用，功能与“美图秀秀”雷同。 研究所得，版权所有！
 
 Johnny Xu(徐景周)  
 Future Studio
