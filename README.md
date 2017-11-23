@@ -12,8 +12,9 @@ Tested on iPhone 4 and iPhone 5S. The function as below:
 9.  Share support.  
 
 
-完整应用，功能与“美图秀秀”类似。 研究所得，版权所有！
+完整应用，功能与“美图秀秀”类似。   
 
+研究所得，版权所有！  
 Johnny Xu(徐景周)  
 Future Studio
 
