@@ -11,10 +11,11 @@ Tested on iPhone 4 and iPhone 5S. The function as below:
 8.  International language support.  
 9.  Share support.  
 
-
 完整应用，功能与“美图秀秀”类似。   
  
 Johnny Xu(徐景周)  
 Future Studio
+
+https://www.douyin.com/video/7363552049025256719  
 
 ![Demo](https://github.com/xujingzhou/BeautyHour/blob/master/IMG_0180.JPG)  
