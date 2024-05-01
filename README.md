@@ -17,5 +17,4 @@ Tested on iPhone 4 and iPhone 5S. The function as below:
 Johnny Xu(徐景周)  
 Future Studio
 
-Demo    
-<img src="https://github.com/xujingzhou/BeautyHour/blob/master/IMG_0180.JPG" width = "300" height = "500" alt="Demo" align=center />
+![Demo](https://github.com/xujingzhou/BeautyHour/blob/master/IMG_0180.JPG)  
