@@ -16,6 +16,6 @@ Tested on iPhone 4 and iPhone 5S. The function as below:
 Johnny Xu(徐景周)  
 Future Studio
 
-https://v.m.chenzhongtech.com/fw/photo/3xbhaa4b9ausv5e。
+https://v.m.chenzhongtech.com/fw/photo/3xbhaa4b9ausv5e
 
 ![Demo](https://github.com/xujingzhou/BeautyHour/blob/master/IMG_0180.JPG)  
